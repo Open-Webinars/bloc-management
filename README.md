@@ -1,1 +1,1 @@
-# bloc-management
+# bloc-structure-flutter
